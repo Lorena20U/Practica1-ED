@@ -1,0 +1,6 @@
+Listado de programas:
+
+1. Escriba un algoritmo para encontrar la suma de los primeros números naturales N.  (Seleccionado)
+2. Escriba un algoritmo para imprimir la calificación obtenida por un alumno utilizando las siguientes reglas.
+3. Escriba un programa para encontrar el segundo más grande de n números usando una matriz.
+4. Escribir un programa que gire un arr[] de tamaño n por d elementos
